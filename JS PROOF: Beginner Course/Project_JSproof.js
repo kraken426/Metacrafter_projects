@@ -45,10 +45,10 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("ayush","21cbt1053","familyissue","0","shouldnothappenagain");
-mintNFT("rishabh","21cbt1065","badhealth","0","shouldnothappenagain");
-mintNFT("kartik","21cbt1047","lazy","10","snorlaxlol");
-mintNFT("rupam","21cbt1024","cheatingcase","15","getrekt");
-mintNFT("amitesh","21cbt1183","trainingchange","0","okay");
+mintNFT("ayush","21cbt1053","family issue","0","should not happen again");
+mintNFT("rishabh","21cbt1065","bad health","0","should not happen again");
+mintNFT("kartik","21cbt1047","lazy","10","snorlax lol");
+mintNFT("rupam","21cbt1024","cheating case","15","get rekt");
+mintNFT("amitesh","21cbt1183","training change","0","okay");
 getTotalSupply()
 listNFTs()
