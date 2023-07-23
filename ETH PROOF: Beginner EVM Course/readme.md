@@ -20,7 +20,13 @@ the amount that is supposed to be burned.
 
 ### Executing program
 
-[to be completed]
+To run the "Create_a_Token.sol" file we either need etherium environment or online IDE.
+For convinience we will use an online IDE which you can find using link " https://remix.ethereum.org/ " .
+To get started, create a file by clicking on "+" on left corner (it should be .sol file since we are coding in solidity).
+After creating a file simply paste the code under the file_name.sol
+Then again on left side go to " Solidity Compiler " and compile it.
+After compiling go to " Deploy and run transaction " tab and deploy it.
+After that you can mint and burn and check supply in same " Deploy and run transaction " folder using one of the many addresses provided there.
 
 ## Authors
 
