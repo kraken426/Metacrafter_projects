@@ -5,7 +5,8 @@ contract SmartContract {
     uint256 public balance;
     constructor() {
         balance = 600;
-    }
+    } 
+//using external so that deposit and withdraw can only be accessed from external account. also less gas fees compared to public.
     function deposit(uint256 amount) external {
         require(amount > 0, "INVALID! Amount is less than zero");
         balance += amount;
