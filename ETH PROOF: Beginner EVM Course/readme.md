@@ -22,11 +22,31 @@ the amount that is supposed to be burned.
 
 To run the "Create_a_Token.sol" file we either need etherium environment or online IDE.
 For convinience we will use an online IDE which you can find using link " https://remix.ethereum.org/ " .
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/5f261ccc-d4b3-4fb5-a034-a0c768c3accd)
+
 To get started, create a file by clicking on "+" on left corner (it should be .sol file since we are coding in solidity).
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/3a4a57f0-455e-4473-a307-dd6a6edea161)
+
 After creating a file simply paste the code under the file_name.sol
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/854e838a-b533-444e-a5b9-503f20c7ae78)
+
 Then again on left side go to " Solidity Compiler " and compile it.
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/f0edae37-4253-4d42-ba81-d9f12d83cf4f)
+
 After compiling go to " Deploy and run transaction " tab and deploy it.
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/c59ddb8c-cab9-42de-a3ce-5275f725e83f)
+
 After that you can mint and burn and check supply in same " Deploy and run transaction " folder using one of the many addresses provided there.
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/e8d5e8ce-c1fb-4ffa-8f74-437dca7e5bbb)
+
+![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/3e980b6f-fc19-4736-adbc-02af0c268942)
+
 
 ## Authors
 
