@@ -1,4 +1,4 @@
-# implementation of the require(), assert() and revert() statements
+# Implementation of the require(), assert() and revert() statements
 
 This Solidity program implements the require(), assert() and revert() statements as error handling techniques in Solidity.
 
