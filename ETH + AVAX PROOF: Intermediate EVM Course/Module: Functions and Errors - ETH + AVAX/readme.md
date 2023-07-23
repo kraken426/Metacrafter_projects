@@ -6,7 +6,7 @@ This Solidity program implements the require(), assert() and revert() statements
 
 This program is a smart contract written in Solidity(.sol)
 The contract has 2 functions: deposit and withdraw which use require, revert, and assert statements respectively to handle errors.
-I pre-assigned the balance to 500 to make things simple
+I pre-assigned the balance to 600 to make things simple
 
 ![image](https://github.com/kraken426/Metacrafter_projects/assets/67184260/d462b38f-5ea4-44ec-a593-3b87633ecc38)
 
